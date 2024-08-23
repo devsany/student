@@ -2,9 +2,9 @@
 "student_main_data_json"=[
  {
   "id": 1,
-  "ADMISSION": "CPS-NUR- 3272-2024",
+  "ADMISSION": "CPS-NUR-3272-2024",
   "ROLL": 1,
-  "NAME_OF_STUDENT": "AARAV SINGH",
+  "NAME_OF_STUDENT": "AARAV KUMAR",
   "FATHER_NAME": "AMARJEET SINGH",
   "MOTHER_NAME": "NEHA SINGH",
   "DOB": "04\/28\/2020",
